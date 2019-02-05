@@ -1,0 +1,1 @@
+creatureTypes.png,32,32,3
